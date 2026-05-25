@@ -1,0 +1,17 @@
+<suite name="CapstoneSuite">
+
+<test name="TutorialNinja">
+
+<classes>
+
+<class name=
+"runners.TestRunner"/>
+
+</classes>
+
+</test>
+
+</suite>
+
+
+
