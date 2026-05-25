@@ -53,11 +53,6 @@
 <version>2.0.12</version>
 </dependency>
 
-<dependency>
- <groupId>com.example</groupId>
- <artifactId>nopCommerceBDD</artifactId>
- <version>0.0.1-SNAPSHOT</version>
- </dependency>
  
 </dependencies>
 </project>
